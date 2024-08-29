@@ -1,0 +1,5 @@
+# VLOOKUP Function #
+The VLOOKUP function is a premade function in Excel, which allows searches across columns.
+Syntax : =VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+Explaination : It is a powerful function in Excel that searched for value in the first column of a range(table or array) and returns a corresponding value in the same row from a specified column. 
+The "V" in VLOOKUP stand for "Vertical", indicating that it searches vertically (downwards) in a table.
